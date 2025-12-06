@@ -57,7 +57,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/princeton-full.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Nicole Xiomora An",
-	bio: "DevOps & AWS Cloud Engineer NJ, USA",
+	bio: "AWS Cloud DevOps Engineer NJ, USA",
 	links: [
 		{
 			name: "LinkedIn",

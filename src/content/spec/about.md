@@ -15,14 +15,14 @@ Throughout my college career, I worked simultaneously as a DevOps Engineer for S
 
 Right before I graduated I gained exposure to Amazon Web Services (AWS) and I *really loved* cloud computing. There are so many benefits, resources, and tools to basically create anything you want. Following my graduation, I studied and built projects to support my AWS learning, and I got my first certification: AWS Cloud Practitioner! 
 
-This portfolio was built as my version of the [AWS Cloud Resume Challenge by Forrest Brazeal](https://cloudresumechallenge.dev/docs/the-challenge/aws/), please enjoy and don't hesitate to [contact me](mailto:nicolexmcdermott@proton.me) for any opportunities or inquiries.
+This portfolio was built as my version of the [AWS Cloud Resume Challenge by Forrest Brazeal](https://cloudresumechallenge.dev/docs/the-challenge/aws/), please enjoy and don't hesitate to [contact me](mailto:nicolexan@proton.me) for any opportunities or inquiries.
 
 
 :::note
-The nicoxmcdportfolio repository holds the source code for this site and my Cloud repository to deploy IaC and to store my AWS notes.
+The nicolexanportfolio repository holds the source code for this site and my Cloud repository to deploy IaC and to store my AWS notes.
 :::
 
-::github{repo="nicoxmcd/nicoxmcdportfolio"}
+::github{repo="nicoxmcd/nicolexanportfolio"}
 
 ::github{repo="nicoxmcd/cloud"}
 
