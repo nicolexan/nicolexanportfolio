@@ -39,7 +39,7 @@ The learning curve was a bit difficult, I went with no experience in Terraform, 
 
 ---
 I keep my IaC in my Cloud repository:
-::github{repo="nicoxmcd/cloud"}
+::github{repo="nicolexan/cloud"}
 
 `backend.tf` basically supplies terraform with information to access the state file. That way I don't have to import each resource individually and it also prevents duplication and other potential issues (all of which I've run into)!
 ```hcl
@@ -355,7 +355,7 @@ The first issues I had when deploying the infrastructure was originally not main
 
 ### Frontend
 The frontend is deployed directly from its repository upon any changes made to the `main` branch.
-`deploy.yml` configures OpenID Connection (OIDC) to AWS which allows the repository to update resources in AWS using a predefined role. The role in AWS only allows these requests from the `main` branches of `nicoxmcd/nicolexanportfolio` and `nicoxmcd/Cloud`. I run a check for Astro to ensure that Astro is configured correctly, if so, it then builds the project, which creates a `/dist` folder with all of the built `.html` files. From there I sync the `/dist` folder to my `nicolexanportfolio` S3 bucket.
+`deploy.yml` configures OpenID Connection (OIDC) to AWS which allows the repository to update resources in AWS using a predefined role. The role in AWS only allows these requests from the `main` branches of `nicolexan/nicolexanportfolio` and `nicolexan/Cloud`. I run a check for Astro to ensure that Astro is configured correctly, if so, it then builds the project, which creates a `/dist` folder with all of the built `.html` files. From there I sync the `/dist` folder to my `nicolexanportfolio` S3 bucket.
 ```yml
 name: Deploy Static Site
 
@@ -411,7 +411,7 @@ jobs:
         run: |
           aws s3 sync dist/ s3://${{ env.BUCKET_NAME }} 
 ```
-::github{repo="nicoxmcd/nicolexanportfolio"}
+::github{repo="nicolexan/nicolexanportfolio"}
 
 ### IaC
 The infrastructure is deployed directly from the Cloud repository via a workflow_dispatch with an option for only generating the Terraform plan (which is automatically `True`).
@@ -487,7 +487,7 @@ jobs:
           --paths "/*"
 ```
 
-::github{repo="nicoxmcd/cloud"}
+::github{repo="nicolexan/cloud"}
 
 :::note[Reflection]
 Later on, I want to continue using the one terraform.yml workflow for all my project, so I want to use configuration as code with JSON or YAml to define the CloudFront distribution instead of hard coding it into the workflow

@@ -15,5 +15,5 @@
 :::note
 I regularly go back and practice key skills in different programming languages and review previous work, feel free to look through them here
 :::
-::github{repo="nicoxmcd/Practice"}
+::github{repo="nicolexan/Practice"}
 

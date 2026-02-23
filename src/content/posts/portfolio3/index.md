@@ -118,9 +118,9 @@ Because I'm most familiar with GitHub Actions, I do want to go through the docum
 ## Resources
 Feel free to check out the source code for both the cloud infrastructure and portfolio source code.
 
-::github{repo="nicoxmcd/nicolexanportfolio"}
+::github{repo="nicolexan/nicolexanportfolio"}
 
-::github{repo="nicoxmcd/cloud"}
+::github{repo="nicolexan/cloud"}
 
 :::note[Reflection]
 This challenge has been super fun to do, although very challenging. Completing the full challenge gives a good idea on how to build and ship a final customer-facing product in AWS. Also! I do want to complete more mods for the challenge and making this a proper robust portfolio and I feel like the challenge was a fantastic way to gain experience building with AWS.

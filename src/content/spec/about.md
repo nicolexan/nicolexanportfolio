@@ -22,8 +22,8 @@ This portfolio was built as my version of the [AWS Cloud Resume Challenge by For
 The nicolexanportfolio repository holds the source code for this site and my Cloud repository to deploy IaC and to store my AWS notes.
 :::
 
-::github{repo="nicoxmcd/nicolexanportfolio"}
+::github{repo="nicolexan/nicolexanportfolio"}
 
-::github{repo="nicoxmcd/cloud"}
+::github{repo="nicolexan/cloud"}
 
 > Rejoice in hope, be patient in tribulation, be constant in prayer. Romans 12:12
