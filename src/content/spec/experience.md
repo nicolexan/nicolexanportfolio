@@ -1,13 +1,25 @@
 # Education
 :::tip[[Stevens Institute of Technology, Hoboken, NJ](https://www.stevens.edu/)]
-*B.E. Computer Engineering, Network Security, with Honors from Fall 2020 to Spring 2025*
+*B.E. Computer Engineering, Network Security, with Honors - September 2020 - May 2025*
 - **Dean's List**: Spring 2024, Fall 2024, Spring 2025
 :::
 
 # Experience
 
 :::tip[[SPHERE Technology Solutions, Newark, NJ](https://sphereco.com/)]
-*DevOps Engineer since Fall 2022*
+*Cloud DevOps Engineer - September 2025 - Current*
+- Design a highly available SaaS networking architecture with multi-AZ deployments to support reliability and scalability. 
+- Own and operate the cloud infrastructure for a new SaaS product, handling both initial setup and ongoing improvements
+- Implement least-privilege IAM roles and policies, including OIDC-based roles for GitHub Actions used in CI/CD workflows
+- Build and manage CI/CD pipelines for Terraform deployments, Docker image builds, ECR publishing, and application deployments to EKS
+- Use Terraform with reusable modules and workspaces to manage infrastructure across environments
+- Secure the platform using VPC networking, security groups, NACLs, and IAM best practices
+- Automate RDS provisioning and database initialization with SQL scripts as part of infrastructure deployment
+- Design a decoupled application architecture that allows individual services to be updated and deployed independently
+- Configure and operate Amazon EKS clusters, including node groups and application workloads
+- Troubleshoot Kubernetes, EKS, and Docker issues encountered during development and deployment
+- Work closely with a small team to build, deploy, and iterate a new SaaS product
+*DevOps Engineer - September 2022 - September 2025*
 - Worked with product development teams to enhance CI/CD processes that meet specific constraints while optimizing deployment efficiency by 60%, adapting to shifting project priorities and tight timelines
 - Provided strategic recommendations and re-architected entire CI/CD pipeline structure reducing build time by up to 90% and reducing delivery time by over 50% utilizing GitHub Actions and Jenkins
 - Identified and implemented improvements to unit testing workflow, reducing testing time by 30% by utilizing a matrix strategy to enable parallel workstreams
@@ -17,14 +29,14 @@
 :::
 ![SPHERE Stack](./sphereskills.png)
 :::tip[[Gumiho, Ridgefield, NJ](https://www.gumihollc.com/)]
-*Media & DevOps Engineer from Winter 2024 to Summer 2025*
-- Designed and created product photos for e-commerce websites
+*Solutions Architect & Media*
 - Designed and created marketing media such as business cards, Instagram posts, etc.
 - Collaborated with founder to create GitHub workflows for automatically calling account and cryptocurrency bid prices periodically using RobinHood API
+- Architected AWS infrastructure to support new GumihoLLC website
 :::
 ![Gumiho Stack](./gumihoskills.png)
 :::tip[[Stevens Institute of Technology, Hoboken, NJ](https://www.stevens.edu/)]
-*Recitation Teacher from Fall 2022 to Spring 2023*
+*Introduction to Programming - Recitation Teacher*
 - Led recitation lecture of small lectures (20 students) to large lectures (120 students)
 - Created and assigned homework to assess the students' knowledge in C++
 - Utilized object oriented programming (OOP) in lectures and assignments 

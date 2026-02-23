@@ -98,7 +98,7 @@ These are the mods I added with their associated explanations of where or how I 
         - Monitoring is super important in DevOps, it keeps us proactive, being able to catch small changes in how services are being used, or being able to quickly react to various situations.
         - Here is the CloudWatch dashboard I put together that monitors the Lambda function invocations, deployments, and item updates to the DynamoDB table:
         ![CloudWatch Dashboard](./CloudWatch.png)
-        - **Fun Fact**: My fiance and I have 4 lizards!
+        - **Fun Fact**: My **husband** and I have 4 lizards!
         ![An actual monitor lizard](./lizard.png)
     - *Security Mod: Check yo Privilege*
         - Used [IAM Access Analyzer](https://docs.aws.amazon.com/IAM/latest/UserGuide/what-is-access-analyzer.html#what-is-access-analyzer-resource-identification) to analyze organization wide unused permissions.

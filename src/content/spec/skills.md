@@ -3,13 +3,12 @@
 :::
 
 :::tip[Skills]
-- **AWS Cloud**: IAM, EC2, S3, CloudWatch, Certificate Manager, Amplify, Auto Scaling, Elastic Load Balancing, DynamoDB, Route53, CloudFront, IAM Identity Center
+- **AWS Cloud**: IAM, EC2, S3, CloudWatch, Certificate Manager, Amplify, Auto Scaling, Elastic Load Balancing, DynamoDB, Route53, CloudFront, IAM Identity Center, EKS, ECR, VPC, RDS, KMS ElastiCache
 - **DevOps**: Git, GitHub Actions, JFrog Artifactory, Docker, Snyk, Jenkins, Terraform
 - **Programming**: Python, Bash, YAML, JSON, C++, Java, REST APIs
 - **OS**: Windows, Linux, Ubuntu, RHEL8
-- **Productivity**: Microsoft Office, Google Workspace, Notion, Confluence, Jira, Canva
+- **Productivity**: Microsoft Office, Google Workspace, Notion, Confluence, Jira, Canva, Claude
 - **Languages**: English (Native), Spanish (Conversational), German, Korean (Beginner)
-![My Skills](./myskills.png)
 :::
 
 :::note
