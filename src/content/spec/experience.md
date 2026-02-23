@@ -19,6 +19,8 @@
 - Configure and operate Amazon EKS clusters, including node groups and application workloads
 - Troubleshoot Kubernetes, EKS, and Docker issues encountered during development and deployment
 - Work closely with a small team to build, deploy, and iterate a new SaaS product
+:::
+:::tip[[SPHERE Technology Solutions, Newark, NJ](https://sphereco.com/)]
 *DevOps Engineer - September 2022 - September 2025*
 - Worked with product development teams to enhance CI/CD processes that meet specific constraints while optimizing deployment efficiency by 60%, adapting to shifting project priorities and tight timelines
 - Provided strategic recommendations and re-architected entire CI/CD pipeline structure reducing build time by up to 90% and reducing delivery time by over 50% utilizing GitHub Actions and Jenkins
