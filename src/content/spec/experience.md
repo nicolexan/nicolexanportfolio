@@ -43,10 +43,10 @@
 :::tip[[EH Yang Research Group, Hoboken, NJ](https://www.stevens.edu/advanced-quantum-materials-lab/members/alumni)]
 *Nanotechnology - Research Assistant*
 :::
-:::tip[[Avon, Suffern, NY](https://www.stevens.edu/advanced-quantum-materials-lab/members/alumni)]
+:::tip[[Avon, Suffern, NY](https://www.avon.com)]
 *PET - Engineer Intern*
 :::
-:::tip[[Morgan Stanley, New York City, NY](https://www.stevens.edu/advanced-quantum-materials-lab/members/alumni)]
+:::tip[[Morgan Stanley, New York City, NY](https://nicolexan.github.io/Project-SeaTurtles/)]
 *Girls Who Code Summer Immersion Program - Intern*
 :::
 > Whatever you do, work from the soul [that is, put in your very best effort], as [something done] for the Lord and not for men, Colossians 3:23
