@@ -56,3 +56,10 @@ jobs:
       - name: Deploy to S3
         run: |
           aws s3 sync dist/ s3://${{ env.BUCKET_NAME }} 
+
+      - name: Invalidate CloudFront Cache
+        run: |
+          var=`cat distribution.txt`
+          aws cloudfront create-invalidation \
+            --distribution-id ${{ secrets.DIST_ID }} \
+            --paths "/*"
