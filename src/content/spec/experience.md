@@ -33,7 +33,6 @@
 :::tip[[Gumiho, Ridgefield, NJ](https://www.gumihollc.com/)]
 *Executive Assistant & Engineer*
 :::
-![Gumiho Stack](./gumihoskills.png)
 :::tip[[Stevens Institute of Technology, Hoboken, NJ](https://www.stevens.edu/)]
 *Introduction to Programming - Recitation Teacher*
 :::
