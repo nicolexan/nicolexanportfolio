@@ -31,10 +31,7 @@
 :::
 ![SPHERE Stack](./sphereskills.png)
 :::tip[[Gumiho, Ridgefield, NJ](https://www.gumihollc.com/)]
-*Solutions Architect & Media*
-- Designed and created marketing media such as business cards, Instagram posts, etc.
-- Collaborated with founder to create GitHub workflows for automatically calling account and cryptocurrency bid prices periodically using RobinHood API
-- Architected AWS infrastructure to support new GumihoLLC website
+*Executive Assistant & Engineer*
 :::
 ![Gumiho Stack](./gumihoskills.png)
 :::tip[[Stevens Institute of Technology, Hoboken, NJ](https://www.stevens.edu/)]
