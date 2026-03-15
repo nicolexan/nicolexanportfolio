@@ -3,7 +3,7 @@ title: The Phoenix Project by Gene Kim
 published: 2025-07-01
 description: "A few key takeaways from The Phoenix Project."
 image: "./cover.jpg"
-tags: ["Business", "Review", "Books"]
+tags: ["Business", "Review", "Books", "DevOps"]
 category: Discussions
 draft: false
 ---

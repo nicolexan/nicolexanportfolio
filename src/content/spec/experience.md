@@ -1,6 +1,6 @@
 # Education
 :::tip[[Stevens Institute of Technology, Hoboken, NJ](https://www.stevens.edu/)]
-*B.E. Computer Engineering, Network Security, with Honors - September 2020 - May 2025*
+*B.E. Computer Engineering, Network Security, with Honors*
 - **Dean's List**: Spring 2024, Fall 2024, Spring 2025
 :::
 
@@ -39,10 +39,15 @@
 ![Gumiho Stack](./gumihoskills.png)
 :::tip[[Stevens Institute of Technology, Hoboken, NJ](https://www.stevens.edu/)]
 *Introduction to Programming - Recitation Teacher*
-- Led recitation lecture of small lectures (20 students) to large lectures (120 students)
-- Created and assigned homework to assess the students' knowledge in C++
-- Utilized object oriented programming (OOP) in lectures and assignments 
+:::
+:::tip[[EH Yang Research Group, Hoboken, NJ](https://www.stevens.edu/advanced-quantum-materials-lab/members/alumni)]
+*Nanotechnology - Research Assistant*
 :::
 ![Stevens Stack](./stevensskills.png)
-
+:::tip[[Avon, Suffern, NY](https://www.stevens.edu/advanced-quantum-materials-lab/members/alumni)]
+*PET - Engineer Intern*
+:::
+:::tip[[Morgan Stanley, New York City, NY](https://www.stevens.edu/advanced-quantum-materials-lab/members/alumni)]
+*Girls Who Code Summer Immersion Program - Intern*
+:::
 > Whatever you do, work from the soul [that is, put in your very best effort], as [something done] for the Lord and not for men, Colossians 3:23

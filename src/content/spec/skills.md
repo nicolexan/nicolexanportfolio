@@ -7,12 +7,12 @@
 - **DevOps**: Git, GitHub Actions, JFrog Artifactory, Docker, Snyk, Jenkins, Terraform
 - **Programming**: Python, Bash, YAML, JSON, C++, Java, REST APIs
 - **OS**: Windows, Linux, Ubuntu, RHEL8
-- **Productivity**: Microsoft Office, Google Workspace, Notion, Confluence, Jira, Canva, Claude
+- **Productivity**: Microsoft Office, Google Workspace, Notion, Confluence, Jira, Canva, Claude, Codex
 - **Languages**: English (Native), Spanish (Conversational), German, Korean (Beginner)
 :::
 
 :::note
-I regularly go back and practice key skills in different programming languages and review previous work, feel free to look through them here
+I sometimes go back and practice key skills in different programming languages and review previous work, feel free to look through them here
 :::
 ::github{repo="nicolexan/Practice"}
 
