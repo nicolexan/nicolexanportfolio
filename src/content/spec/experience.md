@@ -43,7 +43,6 @@
 :::tip[[EH Yang Research Group, Hoboken, NJ](https://www.stevens.edu/advanced-quantum-materials-lab/members/alumni)]
 *Nanotechnology - Research Assistant*
 :::
-![Stevens Stack](./stevensskills.png)
 :::tip[[Avon, Suffern, NY](https://www.stevens.edu/advanced-quantum-materials-lab/members/alumni)]
 *PET - Engineer Intern*
 :::
