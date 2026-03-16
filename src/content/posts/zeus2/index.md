@@ -5,7 +5,7 @@ description: "A brief look at what I've been working on the last 6 months!"
 image: "./diagram.png"
 tags: ["Project", "DevOps", "CI/CD", "AWS"]
 category: Cloud Projects
-draft: false
+draft: true
 ---
 
 ## Overview

@@ -5,7 +5,7 @@ description: "How we built Docker images for microservices as part of our decoup
 image: "./microservices.png"
 tags: ["Project", "DevOps", "CI/CD", "Docker", "Microservices", "AWS"]
 category: Cloud Projects
-draft: false
+draft: true
 ---
 
 ## Overview
