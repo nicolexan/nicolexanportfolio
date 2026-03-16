@@ -4,7 +4,7 @@ published: 2025-07-27
 description: "Describing the second half of the AWS Cloud Resume Challenge and explaining how I implemented the visitor counter."
 image: "./AWSCompleteDiagram.png"
 tags: ["Project", "AWS", "Cloud Resume Challenge"]
-category: Projects
+category: Cloud Projects
 draft: false
 ---
 

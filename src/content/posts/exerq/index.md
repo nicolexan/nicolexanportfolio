@@ -4,7 +4,7 @@ published: 2025-05-10
 description: "Utilizing many AWS services such as Amplify, API Gateway, Lambda, DynamoDB, and Bedrock."
 image: "./exerq.png"
 tags: ["Project", "AWS", "AI"]
-category: Projects
+category: Cloud Projects
 draft: false
 ---
 

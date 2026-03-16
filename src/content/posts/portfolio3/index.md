@@ -4,7 +4,7 @@ published: 2025-07-31
 description: "Describing some other steps I took to enforce learning and a DevOps mindset. This is also the part where I implement testing on the Lambda function."
 image: "./AWSCompleteDiagram.png"
 tags: ["Project", "AWS", "Cloud Resume Challenge"]
-category: Projects
+category: Cloud Projects
 draft: False
 ---
 

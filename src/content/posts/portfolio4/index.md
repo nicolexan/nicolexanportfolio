@@ -4,7 +4,7 @@ published: 2026-02-23
 description: "Describing the update to my portfolio DNS and how I redirected traffic to the new domain."
 image: "./AWSCompleteDiagram.png"
 tags: ["Project", "AWS", "Cloud Resume Challenge"]
-category: Projects
+category: Cloud Projects
 draft: False
 ---
 

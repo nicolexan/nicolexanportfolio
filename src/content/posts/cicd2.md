@@ -1,10 +1,10 @@
 ---
 title: CI/CD - QA Automated Unit Tests
-published: 2025-07-31
+published: 2025-07-01
 description: "Working across teams to reduce time for QA team unit testing."
 image: ""
 tags: ["Project", "DevOps", "CI/CD"]
-category: Projects
+category: DevOps Projects
 draft: false
 ---
 

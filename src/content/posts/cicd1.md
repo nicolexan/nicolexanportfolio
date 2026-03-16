@@ -4,7 +4,7 @@ published: 2024-06-04
 description: "Describing how our team utilized json files to deploy multi environments using GitHub Actions"
 image: ""
 tags: ["Project", "DevOps", "CI/CD"]
-category: Projects
+category: DevOps Projects
 draft: false
 ---
 
