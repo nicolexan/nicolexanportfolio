@@ -1,11 +1,11 @@
 ---
-title: CI/CD - Elastic Kubernetes Service Configuration for Microservices
+title: AWS - Networking, Security, and Architecture
 published: 2026-03-14
-description: "How deploying images to Kubernetes proved too be a great learning experience."
-image: "./NOPHOTO.png"
-tags: ["Project", "DevOps", "CI/CD", "Kubernetes", "Microservices"]
-category: Projects
-draft: true
+description: "A brief look at what I've been working on the last 6 months!"
+image: "./diagram.png"
+tags: ["Project", "DevOps", "CI/CD", "AWS"]
+category: Cloud Projects
+draft: false
 ---
 
 ## Overview
