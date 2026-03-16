@@ -1,5 +1,5 @@
 ---
-title: CI/CD - Kubernetes Configuration for Microservices
+title: CI/CD - Elastic Kubernetes Service Configuration for Microservices
 published: 2026-03-14
 description: "How deploying images to Kubernetes proved too be a great learning experience."
 image: "./NOPHOTO.png"
