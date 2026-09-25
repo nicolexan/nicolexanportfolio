@@ -8,6 +8,8 @@ category: Client Projects
 draft: false
 ---
 
+> Visit [Earnest Gumiho](https://gumihollc.com) and try some ginseng!!~ 
+
 ## Overview
 My client had a need to host their website on their domain that was purchased with a particular DNS registrar, except that this registrar charges an exoborant amount of money to keep their company page up. The goal was simple, to build a product showcase page that would cut their annual cost by 55%. 
 
@@ -85,7 +87,7 @@ Because the original DNS registrar also hosts their email setup linked to their 
 
 
 :::note[Reflection]
-Completing this project definitely improved my confidence with AI assisted programming and it was really fun to watch it all come together.
+Completing this project definitely improved my confidence with AI assisted programming and it was really fun to watch it all come together. Also, I already ran out of the Lululala Ginseng, so I am quite sad. :c
 :::
 
 ::github{repo="nicolexan/gumihollc"}
